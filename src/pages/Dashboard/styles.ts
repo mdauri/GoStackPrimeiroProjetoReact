@@ -64,10 +64,11 @@ export const Error = styled.span`
 `;
 
 export const Repositories = styled.div`
+
   margin-top: 80px;
   max-width: 700px;
 
-  a{
+  a {
     background: #fff;
     border-radius: 5px;
     width: 100%;
@@ -113,8 +114,5 @@ export const Repositories = styled.div`
       margin-left: auto;
       color: #cbcbd6;
     }
-
-
-
   }
 `;
